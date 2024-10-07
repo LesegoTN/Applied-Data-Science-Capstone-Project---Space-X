@@ -11,3 +11,8 @@ Therefore if we can determine if the first stage will land, we can determine the
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 This dataset includes a record for each payload carried during a SpaceX mission into outer space.
+
+### Data Collection
+Data sets were collected using the Space X REST API: hhtps://api.spacexdata.com/v4. This API will give us data about launches, including information about the rocket used, payload delivered, launch specifications, landing specifications, and landing outcome. 
+
+
